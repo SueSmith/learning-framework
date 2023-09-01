@@ -9,7 +9,7 @@
       "guess": "What do you think this code will do? 🤔",
       "run": "OK do this to run the code",
       "explore": "Yay! you ran the code, look at it again to find out how.. 👀\n* It did one thing\n* Then another\n* And another",
-      "change": "OK, now make this change...",
+      "change": "🚧 OK, now make this change...",
       "recap": "🎉 Recap of what we learned, building back up to abstraction level by referencing how you'd use it or what other techniques are related..."
     },
     {
@@ -18,7 +18,7 @@
       "guess": "What do you think this code will do? 🤔",
       "run": "OK do this to run the code",
       "explore": "Yay! you ran the code, look at it again to find out how.. 👀\n* It did one thing\n* Then another\n* And another",
-      "change": "OK, now make this change...",
+      "change": "🚧 OK, now make this change...",
       "recap": "🎉 Recap of what we learned, building back up to abstraction level by referencing how you'd use it or what other techniques are related..."
     },
     {
@@ -27,7 +27,7 @@
       "guess": "What do you think this code will do? 🤔",
       "run": "OK do this to run the code",
       "explore": "Yay! you ran the code, look at it again to find out how.. 👀\n* It did one thing\n* Then another\n* And another",
-      "change": "OK, now make this change...",
+      "change": "🚧 OK, now make this change...",
       "recap": "🎉 Recap of what we learned, building back up to abstraction level by referencing how you'd use it or what other techniques are related..."
     }
   ],
@@ -38,7 +38,7 @@
     "extend": "🚧 Try extending the project to do these things that use techniques you learned in the steps...",
     "recap": "💡 You can continue developing it in any way you like!"
   },
-  "perspective": {
+  "synthesis": {
     "reflect": "💭 What did you find hardest about this lesson? What was most fun about it? What else would you use it for?",
     "connect": "📣 [Share on the community forum](https://support.glitch.com)",
     "link": "Here are some links to further learning and ecosystem resources:\n\n* link 1\n* link 2\n* link 3"
