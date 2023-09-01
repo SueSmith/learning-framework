@@ -8,12 +8,12 @@ const lesson = {
       intro: `Here is a generic intro to the topic`,
       code: `let code = true;`,
       guess: `What do you think this code will do? 🤔`,
-      run: `OK do this to run the code`,
+      run: `Try it! Copy the code into the script..`,
       explore: `Yay! you ran the code, look at it again to find out how.. 👀
 * It did one thing
 * Then another
 * And another`,
-      change: `OK, now make this change...`,
+      change: `🚧 OK, now make this change...`,
       recap: `🎉 Recap of what we learned, building back up to abstraction level by referencing how you'd use it or what other techniques are related...`,
       ran: () => {
         try {
@@ -35,12 +35,12 @@ const lesson = {
       intro: `Here is a generic intro to the topic`,
       code: `let code = true;`,
       guess: `What do you think this code will do? 🤔`,
-      run: `OK do this to run the code`,
+      run: `Try it! Copy the code into the script..`,
       explore: `Yay! you ran the code, look at it again to find out how.. 👀
 * It did one thing
 * Then another
 * And another`,
-      change: `OK, now make this change...`,
+      change: `🚧 OK, now make this change...`,
       recap: `🎉 Recap of what we learned, building back up to abstraction level by referencing how you'd use it or what other techniques are related...`,
       ran: () => {
         try {
@@ -62,12 +62,12 @@ const lesson = {
       intro: `Here is a generic intro to the topic`,
       code: `let code = true;`,
       guess: `What do you think this code will do? 🤔`,
-      run: `OK do this to run the code`,
+      run: `Try it! Copy the code into the script..`,
       explore: `Yay! you ran the code, look at it again to find out how.. 👀
 * It did one thing
 * Then another
 * And another`,
-      change: `OK, now make this change...`,
+      change: `🚧 OK, now make this change...`,
       recap: `🎉 Recap of what we learned, building back up to abstraction level by referencing how you'd use it or what other techniques are related...`,
       ran: () => {
         try {
@@ -90,11 +90,11 @@ const lesson = {
   project: {
     name: `Cool project`,
     intro: `Here is what this project does, and you have your own remix of it you can mess around with!`,
-    code: `project.js`,
+    code: `project/project.js`,
     extend: `🚧 Try extending the project to do these things that use techniques you learned in the steps...`,
     recap: `💡 You can continue developing it in any way you like!`
   },
-  perspective: {
+  synthesis: {
     reflect: `💭 What did you find hardest about this lesson? What was most fun about it? What else would you use it for?`,
     connect: `📣 [Share on the community forum](https://support.glitch.com)`,
     link: `Here are some links to further learning and ecosystem resources:
