@@ -91,7 +91,8 @@ const lesson = {
     name: `Cool project`,
     intro: `Here is what this project does, and you have your own remix of it you can mess around with!`,
     code: `project/project.js`,
-    extend: `🚧 Try extending the project to do these things that use techniques you learned in the steps...`,
+    extend: `Try extending the project to do these things that use techniques you learned in the steps...`,
+    done: () => { return true; },
     recap: `💡 You can continue developing it in any way you like!`
   },
   synthesis: {
