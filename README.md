@@ -11,3 +11,5 @@ Please check out these running Glitch projects you can remix:
 
 * [learning-framework.glitch.me](https://learning-framework.glitch.me) – a template
 * [learning-demo.glitch.me](https://learning-demo.glitch.me) – an example app
+
+📣 If you'd like to get involved in the development of this framework or have thoughts, feedback etc please open an issue here on the repo!
